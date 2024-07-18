@@ -1,5 +1,5 @@
 {
-  "name": "formpackage",
+  "name": "hmk_form",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -27,5 +27,21 @@
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
     "vite": "^5.3.1"
-  }
+  },
+  "description": "simple form with strong validation",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassaanhaider88/hmk_form.git"
+  },
+  "keywords": [
+    "react",
+    "form"
+  ],
+  "author": "Hassaan Haider",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hassaanhaider88/hmk_form/issues"
+  },
+  "homepage": "https://github.com/hassaanhaider88/hmk_form#readme"
 }
